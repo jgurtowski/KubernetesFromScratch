@@ -1,4 +1,5 @@
 # LibElektra
+![Elektra Logo](images/elektralogo.svg)
 Homepage: [https://www.libelektra.org](https://www.libelektra.org)
 
 # Summary
@@ -21,11 +22,7 @@ For compatibility, Elektra has 'backends' that can map this abstract 'path' (/et
 
 # Interesting idea, but not suitable for full system configuration management
 
-1. Does not handle anything other than configuration files.
-   Other configuration tools handle processess, commands, file transfers etc.
+1. Only handles configuration files. Processes, commands, file transfers must be done another way.
 2. Certain packages have complicated configuration. They have created their own DSLs. Elektra can't hope to implement all of these.
 3. Designed primarily for configuring a single system.
 
-
-
-# Unified configuration system for linux
