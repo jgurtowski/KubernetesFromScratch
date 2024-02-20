@@ -15,9 +15,9 @@ For production design decisions the 'why' is very important. For certain decisio
 3. Networking
    1. GPGAgent
    3. IPV6
-4. Configuration Management
+4. [Configuration Management](ConfigurationManagement.md)
    1. [LibElektra](LibElektra.md)
-   2. Puppet
+   2. [Puppet](Puppet.md)
    3. CFEngine
       1. Hardware Clock
       2. OpenRC Scripts
