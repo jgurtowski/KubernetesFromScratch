@@ -1,5 +1,5 @@
 # Summary
-This repo contains documentation of a side project with the goal to create an ARM based home kubernetes cluster. This is 
+This repo contains documentation of a project with the goal to create an ARM based home kubernetes cluster.
 
 # Inspiration
 The inspiration for this project is the [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) project.
@@ -16,7 +16,7 @@ For production design decisions the 'why' is very important. For certain decisio
    1. GPGAgent
    3. IPV6
 4. Configuration Management
-   1. LibElektra
+   1. [LibElektra](LibElektra.md)
    2. Puppet
    3. CFEngine
       1. Hardware Clock
@@ -24,6 +24,8 @@ For production design decisions the 'why' is very important. For certain decisio
       3. Custom Promises - Package Management
 5. Kubernetes
    1. Certificate Authority
+   2. Etcd
 6. Misc
-   1. Linux ACLs
+   1. Interesting Findings
+   2. Linux ACLs
 
