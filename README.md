@@ -10,7 +10,7 @@ For production design decisions the 'why' is very important. For certain decisio
 # Contents
 
 1. [Hardware](Hardware.md)
-2. Linux Distro - Gentoo
+2. [Linux Distro - Gentoo](Gentoo.md)
    1. Custom Gentoo Packages
 3. Networking
    1. GPGAgent
