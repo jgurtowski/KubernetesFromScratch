@@ -12,6 +12,7 @@ For production design decisions the 'why' is very important. For certain decisio
 1. [Hardware](Hardware.md)
 2. [Linux Distro - Gentoo](Gentoo.md)
    1. Custom Gentoo Packages
+   2. [Qemu Chroot](QemuChroot.md)
 3. Networking
    1. GPGAgent
    3. IPV6
