@@ -15,7 +15,7 @@ For production design decisions the 'why' is very important. For certain decisio
    2. [Qemu Chroot](QemuChroot.md)
 3. Networking
    1. GPGAgent
-   3. IPV6
+   3. [IPV6](IPv6.md)
 4. [Configuration Management](ConfigurationManagement.md)
    1. [LibElektra](LibElektra.md)
    2. [Puppet](Puppet.md)
@@ -27,6 +27,6 @@ For production design decisions the 'why' is very important. For certain decisio
    1. Certificate Authority
    2. Etcd
 6. Misc
-   1. Interesting Findings
+   1. [Interesting Findings](InterestingFindings.md)
    2. Linux ACLs
 
