@@ -5,7 +5,7 @@ This repo contains documentation of a project with the goal to create an ARM bas
 The inspiration for this project is the [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) project.
 
 # Why?
-For production design decisions the 'why' is very important. For certain decisions I will try to provide a reasonable 'why', however, given this is a side project, the answer for most design decisions will be: learning/fun/curiosity.
+For production design decisions the 'why' is very important. I will try to provide a reasonable 'why', however, given this is a side project, the answer for most design decisions will be: learning/fun/curiosity.
 
 # Contents
 
